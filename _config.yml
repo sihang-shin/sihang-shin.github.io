@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "신시항"
+  avatar           : "https://post-phinf.pstatic.net/MjAxODA3MDRfNDUg/MDAxNTMwNzA2NzY2OTEw.TZYukKCRnIcHnW3rlvCaxXmyzhJGeYjZ7v1KoVgMdM4g.JgAwWGVQOXZmMgC2TpiSORA7MEBD4jOHtghMqlORGycg.JPEG/maxresdefault.jpg?type=w800_q75"
+  bio              : "나는 신시항"
+  location         : "KOREA,PUSAN"
+  email            : "ITWILL@itwill.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
